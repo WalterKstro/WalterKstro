@@ -1,4 +1,4 @@
-### Hi there everyone 👋
+## Hi, I'm Walter 😀
 Current I'm working as Frontend Developer Junior at Google Business View 360.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fckastro?color=%231DA1F2&logo=twitter&style=for-the-badge)
@@ -6,6 +6,7 @@ Current I'm working as Frontend Developer Junior at Google Business View 360.
 
 - 🌱 I’m currently learning PHP, React and SQL
 - 🤔 I’m looking for help with better my skills
+- 💻 I'm current using Vue.js, Nuxt.js, Vuex, Vue Router, Sass etc.
 
 
 <!--
