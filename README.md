@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Walter Castro</h1>
 <h3 align="center">A passionate frontend developer from Guatemala City</h3>
 
-<p align="left"> <a href="https://twitter.com/fckastro" target="blank"><img src="https://img.shields.io/twitter/follow/fckastro?logo=twitter&style=for-the-badge" alt="fckastro" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Python, React**
 
 - 💬 Ask me about **Javascript, Vuejs, Nuxtjs**
