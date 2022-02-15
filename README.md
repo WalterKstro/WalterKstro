@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walter Castro</h1>
 <h3 align="center">A passionate frontend developer from Guatemala City</h3>
 
-- 🌱 I’m currently learning **Java, Python, React**
+- 🌱 I’m currently learning **Java, React**
 
 - 💬 Ask me about **Javascript, Vuejs, Nuxtjs**
 
