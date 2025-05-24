@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walter Castro</h1>
-<h3 align="center">A passionate frontend developer from Guatemala City</h3>
+<h3 align="center">Full Stack Developer Laravel - Vue - React | Wordpress Developer</h3>
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Nextjs, Block Theme Wordpress**
 
-- 💬 Ask me about **Javascript, Vuejs, Nuxtjs**
+- 💬 Ask me about **Javascript, Vuejs, Wordrepss, Nuxtjs**
 
 - 📫 How to reach me **walterkstro@gmail.com**
 
